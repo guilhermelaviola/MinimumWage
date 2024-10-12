@@ -1,6 +1,13 @@
 # MinimumWage
 A study on minimum wage and USD price variation in Brazil from 1986 to 2024.
 
+## Currencies
+- Real (R$)
+- Cruzeiro (Cr$)
+- Cruzado (Cz$)
+- Cruzados Novos (Cr$)
+- Cruzeiros Reais (CR$)
+
 ## Source
 **Minimum wage:**
 - https://previdenciarista.com/blog/tabela-historica-dos-salarios-minimos/?srsltid=AfmBOor0kPraBUzAIjWlJWZlSs-tqd9pYE9g9d21lKl_b-kItFUyNUi7
